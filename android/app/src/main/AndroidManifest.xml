@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.name_generator">
    <application
-        android:label="name_generator"
+        android:label="Name Generator"
         android:name="${applicationName}"
         android:icon="@mipmap/prototype">
         <activity
